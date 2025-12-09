@@ -1,4 +1,4 @@
-text
+
 # PCB Defect Detection – Milestone 1
 
 ## 1. Project Context
@@ -109,8 +109,8 @@ Right now, I have mainly set up the structure for this module and will complete 
 
 ## 4. Repository Structure
 
-Current structure for Milestone 1:
 
+```
 Milestone1/
 ├── img/
 │ ├── Missing_hole_Demonstration_1_Template.jpg # example template image
@@ -125,7 +125,7 @@ Milestone1/
 ├── requirements.txt # Python dependencies
 └── README.md # documentation (this file)
 
-text
+```
 
 As I extend the project, I will add:
 - `src/extraction.py` for ROI cropping
@@ -145,14 +145,14 @@ Install dependencies (from inside the `Milestone1` folder):
 
 pip install -r requirements.txt
 
-text
+
 
 `requirements.txt` contains:
 
 opencv-python
 numpy
 
-text
+
 
 ### 5.2 Execution
 
@@ -164,7 +164,7 @@ text
 
 python main.py
 
-text
+
 
 3. After execution, check the `img/` folder for:
    - `template_gray.png`
@@ -185,5 +185,6 @@ Current Milestone 1 status:
 - [ ] Generalise the code to handle multiple image pairs automatically.
 - [ ] Implement ROI extraction script for DeepPCB annotations (Module 2).
 - [ ] Prepare class‑wise folders of cropped defects for CNN training in the next milestone.
+
 
 This milestone gives me a working starting point: I can already see where the PCB differs from the golden template, and I have a clear plan for turning those differences into labelled training data.
