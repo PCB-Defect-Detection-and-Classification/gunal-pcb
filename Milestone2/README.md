@@ -31,7 +31,7 @@ The trained model classifies PCB images into the following **6 defect categories
 - Spurious Copper  
 
 ---
-
+```
 ## 📂 Folder Structure
 
 Milestone2/
@@ -51,7 +51,7 @@ Milestone2/
 ├── requirements.txt
 └── README.md
 
-
+```
 ---
 
 ## 🧩 Model Architecture & Design Choice
