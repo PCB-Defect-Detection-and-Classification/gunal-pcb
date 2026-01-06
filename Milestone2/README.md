@@ -114,6 +114,8 @@ pip install -r requirements.txt
 python src/train_model.py
 python src/evaluate_model.py
 python src/inference.py
+```
+
 ✅ Milestone 2 Status
 ✔ Model trained successfully
 ✔ Evaluation metrics generated
