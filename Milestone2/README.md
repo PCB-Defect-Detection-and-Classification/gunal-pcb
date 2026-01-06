@@ -117,10 +117,15 @@ python src/inference.py
 ```
 
 ✅ Milestone 2 Status
+
 ✔ Model trained successfully
+
 ✔ Evaluation metrics generated
+
 ✔ Visual proof included
+
 ✔ Outputs committed to repository
+
 
 Milestone 2 completed successfully.
 
