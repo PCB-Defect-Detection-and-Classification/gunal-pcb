@@ -110,6 +110,7 @@ Right now, I have mainly set up the structure for this module and will complete 
 ## 4. Repository Structure
 
 Current structure for Milestone 1:
+```
 
 Milestone1/
 ├── img/
@@ -124,7 +125,7 @@ Milestone1/
 ├── main.py # simple demo script calling the pipeline
 ├── requirements.txt # Python dependencies
 └── README.md # documentation (this file)
-
+```
 text
 
 As I extend the project, I will add:
@@ -185,5 +186,6 @@ Current Milestone 1 status:
 - [ ] Generalise the code to handle multiple image pairs automatically.
 - [ ] Implement ROI extraction script for DeepPCB annotations (Module 2).
 - [ ] Prepare class‑wise folders of cropped defects for CNN training in the next milestone.
+
 
 This milestone gives me a working starting point: I can already see where the PCB differs from the golden template, and I have a clear plan for turning those differences into labelled training data.
