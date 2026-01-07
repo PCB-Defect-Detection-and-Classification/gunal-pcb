@@ -60,7 +60,7 @@ data/uploads/test/test.jpg
 
 
 2. Run backend pipeline:
-``bash
+```bash
 python run_pipeline.py
 Outputs are saved automatically in:
 
