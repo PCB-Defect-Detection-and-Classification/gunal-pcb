@@ -62,32 +62,36 @@ data/uploads/test/test.jpg
 2. Run backend pipeline:
 ```bash
 python run_pipeline.py
-Outputs are saved automatically in:
+```
+Outputs are saved automatically in
 
-powershell
-Copy code
 data/processed/
 ├── diff/
 ├── masks/
 └── rois/
-Frontend (Optional)
+
+
+Frontend :
+
 A Streamlit-based frontend (app/main.py) is provided for future integration.
 It allows image uploads and visualization of results when run locally.
 
-Status
- Backend pipeline implemented
+Status :
 
- Defect localization with bounding boxes
+➡️ Backend pipeline implemented
 
- ROI extraction for CNN input
+➡️ Defect localization with bounding boxes
 
- Clean modular structure
+➡️ ROI extraction for CNN input
 
- CNN inference integration (next milestone)
+➡️Clean modular structure
 
- PDF inspection report generation
+➡️CNN inference integration (next milestone)
 
-Conclusion
-Milestone 3 establishes a solid backend foundation that bridges classical
-image processing (Milestone 1) and CNN-based defect classification
-(Milestone 2), preparing the system for full-stack deployment.
+➡️PDF inspection report generation
+
+Conclusion 
+
+➡️Milestone 3 establishes a solid backend foundation that bridges classical
+➡️image processing (Milestone 1) and CNN-based defect classification
+➡️(Milestone 2), preparing the system for full-stack deployment.
