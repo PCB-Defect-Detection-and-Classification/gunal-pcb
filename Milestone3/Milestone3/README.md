@@ -93,5 +93,7 @@ Status :
 Conclusion 
 
 ➡️Milestone 3 establishes a solid backend foundation that bridges classical
+
 ➡️image processing (Milestone 1) and CNN-based defect classification
+
 ➡️(Milestone 2), preparing the system for full-stack deployment.
