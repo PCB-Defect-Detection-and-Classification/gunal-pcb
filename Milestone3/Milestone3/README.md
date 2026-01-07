@@ -64,13 +64,13 @@ data/uploads/test/test.jpg
 python run_pipeline.py
 ```
 Outputs are saved automatically in
-
+```
 data/processed/
 ├── diff/
 ├── masks/
 └── rois/
 
-
+```
 Frontend :
 
 A Streamlit-based frontend (app/main.py) is provided for future integration.
