@@ -41,16 +41,14 @@ The final solution is delivered as a **deployable Streamlit web application** su
 ---
 
 ## 📂 Project Structure
-
+```
 PCB-Defect-Detection/
 │
 ├── Milestone1/
 ├── Milestone2/
 ├── Milestone3/
 └── Milestone4/
-
-yaml
-Copy code
+```
 
 ---
 
