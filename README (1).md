@@ -57,7 +57,7 @@ Deployment              : Local / Cloud-ready
 ---------------------------------------------------------------------------
 PROJECT STRUCTURE
 ---------------------------------------------------------------------------
-
+```
 gunal-pcb/
 │
 ├── Milestone1/    Classical Image Processing and Defect Localization
@@ -66,7 +66,7 @@ gunal-pcb/
 ├── Milestone4/    Final QA Platform and Deployment
 │
 └── README.md      Master Project Documentation
-
+```
 
 ---------------------------------------------------------------------------
 DEVELOPMENT MILESTONES
