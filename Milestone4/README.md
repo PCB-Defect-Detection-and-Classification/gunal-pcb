@@ -24,7 +24,7 @@ This project is designed for **real-world Quality Assurance (QA)** workflows.
 - Streamlit-based UI
 
 ---
-
+```
 ## 📂 Folder Structure
 Milestone4/
 ├── app/
@@ -34,19 +34,13 @@ Milestone4/
 ├── Documentation/
 │ ├── User_Guide.md
 │ └── Technical_Report.md
-
-yaml
-Copy code
-
+```
 ---
-
+```
 ## ▶️ How to Run (Local Machine)
 pip install -r requirements.txt
 streamlit run app/main.py
-
-yaml
-Copy code
-
+```
 ---
 
 ## ✅ Status
